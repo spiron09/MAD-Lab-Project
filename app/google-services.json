@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198884216358",
+    "firebase_url": "https://finalmad2-49c53-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "finalmad2-49c53",
+    "storage_bucket": "finalmad2-49c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198884216358:android:e893641cd76deb5db260e7",
+        "android_client_info": {
+          "package_name": "com.example.finalmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198884216358-r5ko7iaoughj1emo591bf1u6g7gf9ejc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-ZsaMfoRwoUIcnScasochCj97kDXf1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198884216358-r5ko7iaoughj1emo591bf1u6g7gf9ejc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
